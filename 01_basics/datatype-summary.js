@@ -19,3 +19,9 @@ const myFunction=function(){ //type =function
     console.log("Hello World");
     
 }
+
+
+
+//**********
+//Stack memory(primitive)
+//Heap memory(non-primitive)
