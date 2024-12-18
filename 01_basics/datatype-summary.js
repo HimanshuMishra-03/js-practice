@@ -7,6 +7,8 @@
 const id=Symbol("10");
 const anotherId=Symbol("10");
 console.log(id===anotherId);
+console.log(Symbol("10"));
+
 
 const arr=["Himanshu","Riya","Janmejay"];//type= object
 console.log(typeof arr);
