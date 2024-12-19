@@ -33,7 +33,7 @@ console.log(obj4);
 
 const obj5=Object.assign({},obj1,obj2)//Object.assign(targe({}),source(more than 1))
 console.log(obj5);
-console.log(obj5[1]);
+console.log("hi",obj5[1]);
 
 //spreading method
 const obj6={...obj1,...obj2}
